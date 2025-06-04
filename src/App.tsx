@@ -55,7 +55,7 @@ function App() {
           </Routes>
           <footer className="fixed bottom-0 left-0 right-0 bg-white boost-border py-2 text-center">
             <p className="text-sm text-gray-600">© {new Date().getFullYear()} RB FIRST CONNECT. All rights reserved.</p>
-            <p className="text-[10px] text-gray-500">Powered by PARTH</p>
+            <p className="text-[10px] text-gray-500">Powered by RBFC</p>
           </footer>
         </div>
       </AuthProvider>
